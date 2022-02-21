@@ -29,6 +29,7 @@ This is a liferay react widget generated with `yo liferay-js` which includes ext
 
 - [Developing a React Application](https://help.liferay.com/hc/en-us/articles/360029028051-Developing-a-React-Application)
 - [Liferay Swagger](https://app.swaggerhub.com/organizations/liferayinc)
+- [Liferay Swagger Headless Delivery](https://app.swaggerhub.com/apis/liferayinc/headless-delivery/v1.0)
 - [GraphQL](https://help.liferay.com/hc/en-us/articles/360028727012-Get-Started-Discover-the-API)
 - [Swagger Editor](https://editor.swagger.io/)
 
